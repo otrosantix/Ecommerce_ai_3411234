@@ -6,7 +6,7 @@ import lombok.Data;
 
 @Data
 @Entity
-public class DetalleProducto {
+public class DetalleOrden {
 
 	private Long id_detalles;
 	private int cantidad_orden;
